@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**CihadDogan/CihadDogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software engineer and have some profesional experiences in:
+ * Embedded software development. Mainly with ARM (Mostly ST), PIC microcontrollers.
+ * Game programming with Unity Game Engine. I am currently working with a publisher. You can check out my games from:
+   https://apps.apple.com/us/developer/cihad-dogan/id1042090984
+ * Native mobile app development with both iOS and Android.
 
-Here are some ideas to get you started:
+And also have personal and educational projects in:
+ * Image processing with Python and OpenCV.
+ * Web scrapping with Python and Selenium.
+ * Desktop app development with .Net.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently learning full stack web development.
+
+### 📫 Reach me at 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cihad-dogan-1b029499/)
