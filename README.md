@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a software engineer and have professional experiences in:
- * Embedded software development. Mainly with ARM (Mostly ST), PIC microcontrollers.
+ * Embedded software development. Mainly with ARM (Mostly ST) and PIC microcontrollers.
  * Game programming with Unity Game Engine. I am currently working with a publisher. You can check out my games from:
    https://apps.apple.com/us/developer/cihad-dogan/id1042090984
  * Native mobile app development for both iOS (swift) and Android (java).
