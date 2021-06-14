@@ -12,7 +12,7 @@ And also have personal and educational projects in:
  * Desktop app development with .Net.
  * Backend development with Node.js.
 
-🔭 I’m currently working on embedded linux systems and hypercasual mobile development (part time).\n\r
+🔭 I’m currently working on embedded linux systems and hypercasual mobile development (part time).
 🌱 I’m currently learning full stack web development.
 
 ### 📫 Reach me at 
