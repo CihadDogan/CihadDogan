@@ -10,6 +10,7 @@ And also have personal and educational projects in:
  * Image processing with Python and OpenCV.
  * Web scrapping with Python and Selenium.
  * Desktop app development with .Net.
+ * Backend development with Node.js.
 
 🔭 I’m currently learning full stack web development.
 
