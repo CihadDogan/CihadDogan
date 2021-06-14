@@ -12,8 +12,11 @@ And also have personal and educational projects in:
  * Desktop app development with .Net.
  * Backend development with Node.js.
 
-🔭 I’m currently working on embedded linux systems
+🔭 I’m currently working on embedded linux systems and hypercasual mobile development (part time).
 🌱 I’m currently learning full stack web development.
+
+-  🔭  I’m currently working on iOS Frameworks, Swift, Objc, SwiftUI.
+-  🌱  I’m currently learning Unity 3D Game Development.
 
 ### 📫 Reach me at 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cihad-dogan-1b029499/)
