@@ -7,7 +7,7 @@ I am a software engineer and have professional experience in:
  * Native mobile app development for both iOS (swift) and Android (java).
 
 And also have personal and educational projects in:
- * Image processing with Python and OpenCV.
+ * Image processing with Python, C++ and OpenCV.
  * Web scrapping with Python and Selenium.
  * Desktop app development with .Net.
  * Backend development with Node.js.
