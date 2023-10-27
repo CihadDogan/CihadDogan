@@ -2,8 +2,7 @@
 
 I am a software engineer and have professional experience in:
  * Embedded software development. Mainly with ARM (Mostly ST) and PIC microcontrollers.
- * Game programming with Unity Game Engine. I am currently working with a publisher. You can check out my games from:
-   https://apps.apple.com/us/developer/cihad-dogan/id1042090984
+ * Game programming with Unity Game Engine. I am currently working with a publisher.
  * Native mobile app development for both iOS and Android.
 
 And also have personal and educational projects in:
