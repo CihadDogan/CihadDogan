@@ -12,6 +12,3 @@ And also have personal and educational projects in:
  * Backend development with Node.js.
 
 -  🌱  I’m currently learning full stack web development with React and NodeJS.
-
-### 📫 Reach me at 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/cihad-dogan-1b029499/)
